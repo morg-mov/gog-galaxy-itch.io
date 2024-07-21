@@ -1,0 +1,16 @@
+# Python virtual environment (if applicable)
+/venv/
+
+# Helper script for installing dependencies
+/quickinstall.bat
+
+# GOG Galaxy API, not included to keep repository size down
+# Can be installed with the dev environment preparation script (readydev.py)
+/src/galaxy/
+
+# Butler client
+# Can be downloaded from butler.helpers.get_latest_version()
+/butler/
+
+# Pycache
+/src/butler/__pycache__/

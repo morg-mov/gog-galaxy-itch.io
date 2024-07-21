@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy Itch.io Plugin",
+    "platform": "itchio",
+    "guid": "7ffae9f8-9a07-4cdd-b638-4cff4c4b280c",
+    "version": "0.0.1",
+    "description": "Itch.io client plugin for GOG Galaxy",
+    "author": "Morg.mov",
+    "email": "morg@morgs9.xyz",
+    "url": "https://github.com/morg-mov/gog-galaxy-itch.io",
+    "script": "plugin.py"
+}
